@@ -34,3 +34,4 @@ When game ends and you are left from lobby it will stop. When it is active you s
 - Implement replay audio player with gamestate integration 
 - Add more checks in recording logic
 - Fix thread hanging 
+- Add ability to restart recording with timestamp and new part on player disconnect
