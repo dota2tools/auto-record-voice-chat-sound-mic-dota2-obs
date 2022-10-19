@@ -3,7 +3,7 @@ ARVCSMDO is an extension for OBS Studio to automatically record Dota 2 audio (vo
 Recordings are saved for each match id with sync information file included.  
 
 # Installation 
-* Download [source code](https://github.com/upgradeQ/auto-record-voice-chat-sound-mic-dota2-obs/archive/main.zip), unpack/unzip.
+* Download [source code](https://github.com/dota2tools/auto-record-voice-chat-sound-mic-dota2-obs/archive/refs/heads/main.zip), unpack/unzip.
 * For windows install [Python3.6](https://www.python.org/downloads/release/python-368/) 64 or 32 bit depending on your OBS, you can use any 3.6+ version of Python in 28+ version of OBS Studio 
 * Add `auto_record_dota2.py` to OBS Studio via Tools > Scripts > "+" button
 * Add `gamestate_integration_py.cfg` to local dota 2 folder e.g `C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota\cfg\gamestate_integration`
